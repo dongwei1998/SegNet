@@ -1,2 +1,2 @@
 # SegNet
-基于tensorflow2.5实现的segnet图像算法，完成图像分割任务
+基于 torch 框架实现的 segnet 图像算法，完成图像分割任务

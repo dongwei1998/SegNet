@@ -1,0 +1,19 @@
+2022-08-22 10:59:44|INFO|train.py[:17]|checkpoints dir ./alphamind
+2022-08-22 11:00:32|INFO|train.py[:17]|checkpoints dir ./alphamind
+2022-08-22 11:10:31|INFO|train.py[:17]|checkpoints dir ./alphamind
+2022-08-22 14:39:58|INFO|server.py[:89]|=======Receipt of the request=======
+2022-08-22 14:40:01|INFO|server.py[:102]|输入图片的形状为(1, 512, 512, 1)
+2022-08-22 14:41:00|INFO|server.py[:89]|=======Receipt of the request=======
+2022-08-22 14:41:01|INFO|server.py[:102]|输入图片的形状为(1, 512, 512, 1)
+2022-08-22 14:42:04|INFO|server.py[:89]|=======Receipt of the request=======
+2022-08-22 14:42:05|INFO|server.py[:102]|输入图片的形状为(1, 512, 512, 1)
+2022-08-22 14:43:06|INFO|train.py[:17]|checkpoints dir ./alphamind
+2022-08-22 14:44:02|INFO|train.py[:17]|checkpoints dir ./alphamind
+2022-08-22 14:47:00|INFO|server.py[:89]|=======Receipt of the request=======
+2022-08-22 17:29:40|INFO|server.py[:89]|=======Receipt of the request=======
+2022-08-22 17:33:39|INFO|server.py[:89]|=======Receipt of the request=======
+2022-08-22 18:04:55|INFO|server.py[:89]|=======Receipt of the request=======
+2022-08-22 18:09:51|INFO|server.py[:89]|=======Receipt of the request=======
+2022-08-22 18:09:51|INFO|server.py[:103]|输入图片的形状为(1, 3, 512, 512)
+2022-08-22 18:17:01|INFO|server.py[:89]|=======Receipt of the request=======
+2022-08-22 18:17:44|INFO|server.py[:89]|=======Receipt of the request=======
